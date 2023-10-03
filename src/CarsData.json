@@ -1,7 +1,7 @@
 [
   {
     "name": "Toyota Camry",
-    "image": "../images/toyota_camry.jpg",
+    "image": "./images/toyota_camry.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "20 km / 1-liter",
@@ -10,7 +10,7 @@
   },
   {
     "name": "Honda Civic",
-    "image": "../images/honda_civic.jpg",
+    "image": "./images/honda_civic.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "18 km / 1-liter",
@@ -19,7 +19,7 @@
   },
   {
     "name": "Ford Mustang",
-    "image": "../images/ford_mustang.jpg",
+    "image": "./images/ford_mustang.jpg",
     "seatingCapacity": 4,
     "engineType": "Gasoline",
     "mileage": "15 km / 1-liter",
@@ -28,7 +28,7 @@
   },
   {
     "name": "Tesla Model S",
-    "image": "../images/tesla_model_s.jpg",
+    "image": "./images/tesla_model_s.jpg",
     "seatingCapacity": 5,
     "engineType": "Electric",
     "mileage": "3.5 km/kWh",
@@ -37,7 +37,7 @@
   },
   {
     "name": "BMW 3 Series",
-    "image": "../images/bmw_3_series.jpg",
+    "image": "./images/bmw_3_series.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "17 km / 1-liter",
@@ -46,7 +46,7 @@
   },
   {
     "name": "Audi A4",
-    "image": "../images/audi_a4.jpg",
+    "image": "./images/audi_a4.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "16 km / 1-liter",
@@ -55,7 +55,7 @@
   },
   {
     "name": "Mercedes-Benz E-Class",
-    "image": "../images/mercedes_e_class.jpg",
+    "image": "./images/mercedes_e_class.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "15 km / 1-liter",
@@ -64,7 +64,7 @@
   },
   {
     "name": "Hyundai Sonata",
-    "image": "../images/hyundai_sonata.jpg",
+    "image": "./images/hyundai_sonata.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "19 km / 1-liter",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Volkswagen Golf",
-    "image": "../images/volkswagen_golf.jpg",
+    "image": "./images/volkswagen_golf.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "16 km / 1-liter",
@@ -82,7 +82,7 @@
   },
   {
     "name": "Subaru Outback",
-    "image": "../images/subaru_outback.jpg",
+    "image": "./images/subaru_outback.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "12 km / 1-liter",
@@ -91,7 +91,7 @@
   },
   {
     "name": "Chevrolet Silverado",
-    "image": "../images/chevrolet_silverado.jpg",
+    "image": "./images/chevrolet_silverado.jpg",
     "seatingCapacity": 6,
     "engineType": "Gasoline",
     "mileage": "8 km / 1-liter",
@@ -100,7 +100,7 @@
   },
   {
     "name": "Jeep Wrangler",
-    "image": "../images/jeep_wrangler.jpg",
+    "image": "./images/jeep_wrangler.jpg",
     "seatingCapacity": 4,
     "engineType": "Gasoline",
     "mileage": "10 km / 1-liter",
@@ -109,7 +109,7 @@
   },
   {
     "name": "Ford Explorer",
-    "image": "../images/ford_explorer.jpg",
+    "image": "./images/ford_explorer.jpg",
     "seatingCapacity": 7,
     "engineType": "Gasoline",
     "mileage": "13 km / 1-liter",
@@ -118,7 +118,7 @@
   },
   {
     "name": "Nissan Altima",
-    "image": "../images/nissan_altima.jpg",
+    "image": "./images/nissan_altima.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "15 km / 1-liter",
@@ -127,7 +127,7 @@
   },
   {
     "name": "Kia Sorento",
-    "image": "../images/kia_sorento.jpg",
+    "image": "./images/kia_sorento.jpg",
     "seatingCapacity": 7,
     "engineType": "Gasoline",
     "mileage": "12 km / 1-liter",
@@ -136,7 +136,7 @@
   },
   {
     "name": "Lexus RX",
-    "image": "../images/lexus_rx.jpg",
+    "image": "./images/lexus_rx.jpg",
     "seatingCapacity": 5,
     "engineType": "Hybrid",
     "mileage": "18 km / 1-liter",
@@ -145,7 +145,7 @@
   },
   {
     "name": "Porsche 911",
-    "image": "../images/porsche_911.jpg",
+    "image": "./images/porsche_911.jpg",
     "seatingCapacity": 2,
     "engineType": "Gasoline",
     "mileage": "10 km / 1-liter",
@@ -154,7 +154,7 @@
   },
   {
     "name": "Ford F-150",
-    "image": "../images/ford_f150.jpg",
+    "image": "./images/ford_f150.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "7 km / 1-liter",
@@ -163,7 +163,7 @@
   },
   {
     "name": "Acura MDX",
-    "image": "../images/acura_mdx.jpg",
+    "image": "./images/acura_mdx.jpg",
     "seatingCapacity": 7,
     "engineType": "Gasoline",
     "mileage": "10 km / 1-liter",
@@ -172,7 +172,7 @@
   },
   {
     "name": "Chevrolet Equinox",
-    "image": "../images/chevrolet_equinox.jpg",
+    "image": "./images/chevrolet_equinox.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "14 km / 1-liter",
@@ -181,7 +181,7 @@
   },
   {
     "name": "Toyota Tacoma",
-    "image": "../images/toyota_tacoma.jpg",
+    "image": "./images/toyota_tacoma.jpg",
     "seatingCapacity": 4,
     "engineType": "Gasoline",
     "mileage": "9 km / 1-liter",
@@ -190,7 +190,7 @@
   },
   {
     "name": "Hyundai Tucson",
-    "image": "../images/hyundai_tucson.jpg",
+    "image": "./images/hyundai_tucson.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "14 km / 1-liter",
@@ -199,7 +199,7 @@
   },
   {
     "name": "Honda CR-V",
-    "image": "../images/honda_crv.jpg",
+    "image": "./images/honda_crv.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "16 km / 1-liter",
@@ -208,7 +208,7 @@
   },
   {
     "name": "Nissan Rogue",
-    "image": "../images/nissan_rogue.jpg",
+    "image": "./images/nissan_rogue.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "13 km / 1-liter",
@@ -217,7 +217,7 @@
   },
   {
     "name": "Jeep Grand Cherokee",
-    "image": "../images/jeep_grand_cherokee.jpg",
+    "image": "./images/jeep_grand_cherokee.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "11 km / 1-liter",
@@ -226,7 +226,7 @@
   },
   {
     "name": "Toyota Prius",
-    "image": "../images/toyota_prius.jpg",
+    "image": "./images/toyota_prius.jpg",
     "seatingCapacity": 5,
     "engineType": "Hybrid",
     "mileage": "25 km / 1-liter",
@@ -235,7 +235,7 @@
   },
   {
     "name": "Mazda CX-5",
-    "image": "../images/mazda_cx5.jpg",
+    "image": "./images/mazda_cx5.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "15 km / 1-liter",
@@ -244,7 +244,7 @@
   },
   {
     "name": "Volkswagen Jetta",
-    "image": "../images/volkswagen_jetta.jpg",
+    "image": "./images/volkswagen_jetta.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "14 km / 1-liter",
@@ -253,7 +253,7 @@
   },
   {
     "name": "Subaru Forester",
-    "image": "../images/subaru_forester.jpg",
+    "image": "./images/subaru_forester.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "12 km / 1-liter",
@@ -262,7 +262,7 @@
   },
   {
     "name": "Audi Q5",
-    "image": "../images/audi_q5.jpg",
+    "image": "./images/audi_q5.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "13 km / 1-liter",
@@ -271,7 +271,7 @@
   },
   {
     "name": "Mercedes-Benz C-Class",
-    "image": "../images/mercedes_c_class.jpg",
+    "image": "./images/mercedes_c_class.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "15 km / 1-liter",
@@ -280,7 +280,7 @@
   },
   {
     "name": "Chevrolet Malibu",
-    "image": "../images/chevrolet_malibu.jpg",
+    "image": "./images/chevrolet_malibu.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "17 km / 1-liter",
@@ -289,7 +289,7 @@
   },
   {
     "name": "BMW X5",
-    "image": "../images/bmw_x5.jpg",
+    "image": "./images/bmw_x5.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "12 km / 1-liter",
@@ -298,7 +298,7 @@
   },
   {
     "name": "Kia Optima",
-    "image": "../images/kia_optima.jpg",
+    "image": "./images/kia_optima.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "16 km / 1-liter",
@@ -307,7 +307,7 @@
   },
   {
     "name": "Ford Focus",
-    "image": "../images/ford_focus.jpg",
+    "image": "./images/ford_focus.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "14 km / 1-liter",
@@ -316,7 +316,7 @@
   },
   {
     "name": "Toyota RAV4",
-    "image": "../images/toyota_rav4.jpg",
+    "image": "./images/toyota_rav4.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "19 km / 1-liter",
@@ -325,7 +325,7 @@
   },
   {
     "name": "Honda Accord",
-    "image": "../images/honda_accord.jpg",
+    "image": "./images/honda_accord.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "17 km / 1-liter",
@@ -334,7 +334,7 @@
   },
   {
     "name": "Ford Escape",
-    "image": "../images/ford_escape.jpg",
+    "image": "./images/ford_escape.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "16 km / 1-liter",
@@ -343,7 +343,7 @@
   },
   {
     "name": "Tesla Model 3",
-    "image": "../images/tesla_model_3.jpg",
+    "image": "./images/tesla_model_3.jpg",
     "seatingCapacity": 5,
     "engineType": "Electric",
     "mileage": "4.2 km/kWh",
@@ -352,7 +352,7 @@
   },
   {
     "name": "BMW 5 Series",
-    "image": "../images/bmw_5_series.jpg",
+    "image": "./images/bmw_5_series.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "18 km / 1-liter",
@@ -361,7 +361,7 @@
   },
   {
     "name": "Audi A6",
-    "image": "../images/audi_a6.jpg",
+    "image": "./images/audi_a6.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "15 km / 1-liter",
@@ -370,7 +370,7 @@
   },
   {
     "name": "Mercedes-Benz S-Class",
-    "image": "../images/mercedes_s_class.jpg",
+    "image": "./images/mercedes_s_class.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "13 km / 1-liter",
@@ -379,7 +379,7 @@
   },
   {
     "name": "Hyundai Elantra",
-    "image": "../images/hyundai_elantra.jpg",
+    "image": "./images/hyundai_elantra.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "20 km / 1-liter",
@@ -388,7 +388,7 @@
   },
   {
     "name": "Volkswagen Passat",
-    "image": "../images/volkswagen_passat.jpg",
+    "image": "./images/volkswagen_passat.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "18 km / 1-liter",
@@ -397,7 +397,7 @@
   },
   {
     "name": "Subaru Impreza",
-    "image": "../images/subaru_impreza.jpg",
+    "image": "./images/subaru_impreza.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "14 km / 1-liter",
@@ -406,7 +406,7 @@
   },
   {
     "name": "Chevrolet Traverse",
-    "image": "../images/chevrolet_traverse.jpg",
+    "image": "./images/chevrolet_traverse.jpg",
     "seatingCapacity": 7,
     "engineType": "Gasoline",
     "mileage": "12 km / 1-liter",
@@ -415,7 +415,7 @@
   },
   {
     "name": "Jeep Compass",
-    "image": "../images/jeep_compass.jpg",
+    "image": "./images/jeep_compass.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "13 km / 1-liter",
@@ -424,7 +424,7 @@
   },
   {
     "name": "Ford Edge",
-    "image": "../images/ford_edge.jpg",
+    "image": "./images/ford_edge.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "16 km / 1-liter",
@@ -433,7 +433,7 @@
   },
   {
     "name": "Nissan Sentra",
-    "image": "../images/nissan_sentra.jpg",
+    "image": "./images/nissan_sentra.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "17 km / 1-liter",
@@ -442,7 +442,7 @@
   },
   {
     "name": "Kia Forte",
-    "image": "../images/kia_forte.jpg",
+    "image": "./images/kia_forte.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "18 km / 1-liter",
@@ -451,7 +451,7 @@
   },
   {
     "name": "Lexus ES",
-    "image": "../images/lexus_es.jpg",
+    "image": "./images/lexus_es.jpg",
     "seatingCapacity": 5,
     "engineType": "Hybrid",
     "mileage": "22 km / 1-liter",
@@ -460,7 +460,7 @@
   },
   {
     "name": "Porsche Cayenne",
-    "image": "../images/porsche_cayenne.jpg",
+    "image": "./images/porsche_cayenne.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "10 km / 1-liter",
@@ -469,7 +469,7 @@
   },
   {
     "name": "Ford Fiesta",
-    "image": "../images/ford_fiesta.jpg",
+    "image": "./images/ford_fiesta.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "15 km / 1-liter",
@@ -478,7 +478,7 @@
   },
   {
     "name": "Acura RDX",
-    "image": "../images/acura_rdx.jpg",
+    "image": "./images/acura_rdx.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "12 km / 1-liter",
@@ -487,7 +487,7 @@
   },
   {
     "name": "Chevrolet Camaro",
-    "image": "../images/chevrolet_camaro.jpg",
+    "image": "./images/chevrolet_camaro.jpg",
     "seatingCapacity": 4,
     "engineType": "Gasoline",
     "mileage": "14 km / 1-liter",
@@ -496,7 +496,7 @@
   },
   {
     "name": "BMW 7 Series",
-    "image": "../images/bmw_7_series.jpg",
+    "image": "./images/bmw_7_series.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "12 km / 1-liter",
@@ -505,7 +505,7 @@
   },
   {
     "name": "Kia Soul",
-    "image": "../images/kia_soul.jpg",
+    "image": "./images/kia_soul.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "14 km / 1-liter",
@@ -514,7 +514,7 @@
   },
   {
     "name": "Honda Pilot",
-    "image": "../images/honda_pilot.jpg",
+    "image": "./images/honda_pilot.jpg",
     "seatingCapacity": 8,
     "engineType": "Gasoline",
     "mileage": "11 km / 1-liter",
@@ -523,7 +523,7 @@
   },
   {
     "name": "Nissan Maxima",
-    "image": "../images/nissan_maxima.jpg",
+    "image": "./images/nissan_maxima.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "16 km / 1-liter",
@@ -532,7 +532,7 @@
   },
   {
     "name": "Mazda3",
-    "image": "../images/mazda3.jpg",
+    "image": "./images/mazda3.jpg",
     "seatingCapacity": 5,
     "engineType": "Gasoline",
     "mileage": "16 km / 1-liter",
