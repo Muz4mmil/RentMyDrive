@@ -4,7 +4,7 @@ import CarsMain from './CarsMain';
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/RentMyDrive">
       <Routes>
         <Route path="/" element={<CarsMain />} />
         <Route path="/page/:page" element={<CarsMain />} />
