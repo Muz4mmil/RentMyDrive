@@ -1,4 +1,7 @@
-#Car Search App
+#RentMyDrive
+
+##Car Search App
+
 ###(Internship assignment 1)
 
 This is a React.js application for browsing cars to Rent.
